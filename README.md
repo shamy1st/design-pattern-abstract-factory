@@ -1,2 +1,2 @@
-# abstract-factory
-Abstract Factory Method Design Pattern (Java Implementation)
+# Abstract Factory Design Pattern (Java)
+**Abstract Factory**
