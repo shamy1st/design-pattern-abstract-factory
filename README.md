@@ -11,7 +11,7 @@ You want to create an **AbstractFactory** which contains two factories **ShapeFa
             Shape shape1 = shapeFactory.getShape("RECTANGLE");
             
             AbstractFactory roundedShapeFactory = FactoryProducer.getFactory(true);
-            Shape shape3 = roundedShapeFactory.getShape("RECTANGLE");
+            Shape shape2 = roundedShapeFactory.getShape("RECTANGLE");
 
             shape1.draw();  //Rectangle
             shape2.draw();  //Rounded Rectangle
